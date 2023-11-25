@@ -29,8 +29,7 @@ Make sure you have the necessary software installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/open-mind-robotic-project.git
-   cd open-mind-robotic-project
+   git clone https://github.com/Ayoubbourouhou/arduino-dino-game-auto
    
 2. **Install Dependencies:**
 
