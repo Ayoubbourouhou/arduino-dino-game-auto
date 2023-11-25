@@ -1,7 +1,3 @@
-# arduino-dino-game-auto
-Automate the classic dinosaur game in Chrome using Arduino, LDR, and a servo motor. This project, developed by the 'Open Mind' parascolaire club, allows the game to play autonomously when there's no internet connection. Dive into the world of robotics and game automation with our easy-to-follow Arduino script and hardware setup
-# Open Mind Robotic Project
-
 ## Description
 
 Welcome to the "Open Mind" parascolaire club's robotic project repository! This project focuses on automating the classic dinosaur game that appears in the Chrome browser when there is no internet connection. The automation is achieved using an Arduino board, a Light Dependent Resistor (LDR), a servo motor, a breadboard, and jumper wires.
